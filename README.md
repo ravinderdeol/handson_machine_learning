@@ -1,2 +1,2 @@
-# handson_machine_learning
-📚 Hands-On Maching Learning Exercises
+# Hands-On Machine Learning
+Exercises from Hands-On Machine Learning by Aurélien Géron.
